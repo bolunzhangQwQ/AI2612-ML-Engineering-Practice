@@ -1,7 +1,7 @@
 # AI2612-ML-Engineering-Practice
 # SimSwap换脸模型分析与优化项目
 本项目旨在深入分析并改进现有的[SimSwap换脸模型](https://github.com/neuralchen/SimSwap)，通过一系列创新的技术手段，提高模型的换脸效果质量和稳定性。同时，项目还涉及对AI换脸技术伦理问题的探讨，以及对未来发展前景的展望。
-
+项目详细信息见PDF
 ## 目录
 1. [摘要](#摘要)
 2. [引言](#引言)
